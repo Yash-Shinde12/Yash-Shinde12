@@ -83,5 +83,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Developer Joke" />
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yash-Shinde12&color=0070f3&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
