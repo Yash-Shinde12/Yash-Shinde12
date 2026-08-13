@@ -82,9 +82,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=120&section=footer" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Developer Joke" />
-</p>
+
 
 
 <p align="center">
