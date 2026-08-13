@@ -65,14 +65,6 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AizenSosuke767?ext=heatmap&theme=nord" alt="LeetCode Activity Heatmap" />
-</p>
-
-
-
-
 ---
 
 
