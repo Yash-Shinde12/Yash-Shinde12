@@ -58,11 +58,12 @@
 
 ---
 
-### 🧩 LeetCode Stats
+### 🧩 LeetCode Stats 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/AizenSosuke767?theme=nord&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
+
 
 ---
 
