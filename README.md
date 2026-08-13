@@ -61,9 +61,9 @@
 ### 🧩 LeetCode Stats 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AizenSosuke767?theme=nord&font=Fira%20Code" height="180" alt="LeetCode Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Shinde12&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/AizenSosuke767?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
+
 
 
 <p align="center">
