@@ -67,7 +67,7 @@
 
 
 <p align="center">
-  <img src="https://leetcode-badge.vercel.app/api/users/AizenSosuke767" alt="LeetCode Badges" />
+  <img src="https://leetcard.jacoblin.cool/AizenSosuke767?ext=heatmap&theme=nord" alt="LeetCode Activity Heatmap" />
 </p>
 
 
