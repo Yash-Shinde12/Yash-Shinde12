@@ -61,9 +61,14 @@
 ### 🧩 LeetCode Stats 
 
 <p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/?username=AizenSosuke767&theme=tokyonight" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/AizenSosuke767?theme=nord&font=Fira%20Code" height="180" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Shinde12&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
 </p>
 
+
+<p align="center">
+  <img src="https://leetcode-badge.vercel.app/api/users/AizenSosuke767" alt="LeetCode Badges" />
+</p>
 
 
 
