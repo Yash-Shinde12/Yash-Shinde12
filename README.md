@@ -61,8 +61,9 @@
 ### 🧩 LeetCode Stats 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AizenSosuke767?theme=unicorn&font=Fira%20Code" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/AizenSosuke767?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
+
 
 
 
