@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Problem+Solver;Building+Cool+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AI+%26+ML+Explorer;Building+Cool+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,24 +28,48 @@
 
 ### 🛠️ Tech Stack & Tools
 
+#### 🌐 Web Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,redis,aws,gcp,azure,docker,kubernetes,terraform,git,github,vscode,postman,vercel&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express&perline=12" />
+  </a>
+</p>
+
+#### ☁️ Cloud & DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,git,github,vscode,postman,vercel&perline=12" />
+  </a>
+</p>
+
+#### 🛢️ Database
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase&perline=12" />
+  </a>
+</p>
+
+#### 🤖 AI / ML
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&perline=12" />
   </a>
 </p>
 
 ---
 
-### Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yash-Shinde12/Yash-Shinde12/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
   
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=120&section=footer" width="100%"/>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yash-Shinde12&color=0070f3&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
