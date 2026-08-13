@@ -43,11 +43,9 @@
 </p>
   
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=120&section=footer" width="100%"/>
 </p>
-
 <p align="center">
-  ⭐️ From <b>Yash</b> • 
+  <img src="https://komarev.com/ghpvc/?username=Yash-Shinde12&color=0070f3&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
