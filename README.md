@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Building+Cool+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Problem+Solver;Building+Cool+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,89 +26,21 @@
 
 ---
 
-### 💫 About Me
-
-```text
-💡  Passionate about crafting high-performance web applications and sleek user experiences.
-🔭  Currently working on: Modern Web Applications & Portfolio Projects
-🌱  Currently learning: Advanced Next.js, Cloud Architecture & DevOps
-👯  Looking to collaborate on: Open Source Projects & Full Stack Web Apps
-💬  Ask me about: React, JavaScript, Node.js, Web Design & API Development
-⚡  Fun fact: I love turning coffee into clean, efficient code!
-```
-
----
-
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <br/>
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,redis,aws,gcp,azure,docker,kubernetes,terraform,git,github,vscode,postman,vercel&perline=12" />
   </a>
 </p>
 
 ---
 
-### 📊 Analytics & Activity Stats
+### Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🚀 **Portfolio Website** | Modern interactive developer portfolio | `Next.js` `Tailwind` `Framer Motion` | [Live Demo](#) • [Repo](#) |
-| 💼 **Project Alpha** | Full-stack web app for productivity | `React` `Node.js` `MongoDB` | [Live Demo](#) • [Repo](#) |
-| 🌐 **API Gateway Service** | Microservice REST API with JWT Auth | `Express.js` `PostgreSQL` `Docker` | [Live Demo](#) • [Repo](#) |
 
 ---
 
@@ -117,5 +49,5 @@
 </p>
 
 <p align="center">
-  ⭐️ From <b>Yash</b> • Powered by GitHub Actions & Markdown
+  ⭐️ From <b>Yash</b> • 
 </p>
